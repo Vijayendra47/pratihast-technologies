@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth scrolling alignment configuration */
+html {
+  scroll-padding-top: 5rem; /* Matches header navigation height */
+}
